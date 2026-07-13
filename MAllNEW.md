@@ -7,4 +7,4 @@ skill: ขับรถเร็ว
 weakness:รถล้มบ่อย
 
 ## M ALL NEW
-
+![m](1.png)
